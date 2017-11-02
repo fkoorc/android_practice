@@ -1,0 +1,4 @@
+#Thu Nov 02 16:31:07 CST 2017
+base.0=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_7340bcf5859d50704b15eca38479d40083d0dd17
+renamed.0=classes.dex
+file.0=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_7340bcf5859d50704b15eca38479d40083d0dd17\\classes.dex

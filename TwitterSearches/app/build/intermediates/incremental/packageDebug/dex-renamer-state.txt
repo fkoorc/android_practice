@@ -1,0 +1,7 @@
+#Thu Nov 02 16:15:49 CST 2017
+base.0=C\:\\Users\\sony\\Desktop\\android_practice\\TwitterSearches\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_23cf6fde51ca3c6dfb15a0b31cc721eebfc4b84d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sony\\Desktop\\android_practice\\TwitterSearches\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a417c9df4cfaa10a4bc670c4e8b4df3fad34395f\\classes.dex
+base.1=C\:\\Users\\sony\\Desktop\\android_practice\\TwitterSearches\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a417c9df4cfaa10a4bc670c4e8b4df3fad34395f
+file.0=C\:\\Users\\sony\\Desktop\\android_practice\\TwitterSearches\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_23cf6fde51ca3c6dfb15a0b31cc721eebfc4b84d\\classes.dex

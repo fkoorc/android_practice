@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sony\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\sony\Desktop\android_practice\FlagQuiz\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7340bcf5859d50704b15eca38479d40083d0dd17.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Nov 02 16:31:09 CST 2017
+base.0=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a38d9bd699385d77c5a2b0ffae5a7484d504b974
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f27ddf948740778bf5137807cdff88a561e50a4\\classes.dex
+base.1=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f27ddf948740778bf5137807cdff88a561e50a4
+file.0=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a38d9bd699385d77c5a2b0ffae5a7484d504b974\\classes.dex

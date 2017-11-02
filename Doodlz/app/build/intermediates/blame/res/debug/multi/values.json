@@ -1,0 +1,543 @@
+[
+    {
+        "outputFile": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 48,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 48,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 52,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 52,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 43,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 48,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 48,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 52,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 54,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 54,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 64,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 64,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 45,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 45,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 43,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 43,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 45,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 45,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 41,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 41,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 87,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 87,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 48,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 48,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 48,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 48,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endColumn": 50,
+                    "endOffset": 947
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 50,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 952,
+                    "endColumn": 58,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 58,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 48,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 48,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 46,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 46,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 60,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 60,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 88,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 88,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 84,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 84,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 85,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 85,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 59,
+                    "endOffset": 1483
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 59,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1488,
+                    "endColumn": 69,
+                    "endOffset": 1553
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endColumn": 69,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1558,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1849,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2004
+                },
+                "from": {
+                    "file": "C:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

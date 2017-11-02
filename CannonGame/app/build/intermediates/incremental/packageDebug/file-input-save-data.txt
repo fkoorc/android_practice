@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu Nov 02 16:36:47 CST 2017
+2.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_game.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_681290e0e9949dbec554b10a6947eff7913f2451\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_394c733dc3a2c37172c364f81662739b9b17290b
+7.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\cannon_fire.wav
+5.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=DEX
+6.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_681290e0e9949dbec554b10a6947eff7913f2451
+1.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\blocker_hit.wav
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\target_hit.wav
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=DEX
+0.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_394c733dc3a2c37172c364f81662739b9b17290b\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

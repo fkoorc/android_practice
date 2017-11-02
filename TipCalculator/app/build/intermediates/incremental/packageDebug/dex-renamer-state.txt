@@ -1,0 +1,7 @@
+#Thu Nov 02 15:49:42 CST 2017
+base.0=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_acefd5e3d4a925166da16ebb4a6b753cc709ade7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9ccd7b8ba2c86c718e774fbe7ed679892c0a95e\\classes.dex
+base.1=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9ccd7b8ba2c86c718e774fbe7ed679892c0a95e
+file.0=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_acefd5e3d4a925166da16ebb4a6b753cc709ade7\\classes.dex

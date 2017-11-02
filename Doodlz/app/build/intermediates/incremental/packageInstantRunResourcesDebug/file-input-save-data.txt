@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Nov 02 16:31:00 CST 2017
+2.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_color.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_line_width.xml
+5.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\doodle_fragment_menu.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v19\\doodle_fragment_menu.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\sony\\Desktop\\android_practice\\Doodlz\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_doodle.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

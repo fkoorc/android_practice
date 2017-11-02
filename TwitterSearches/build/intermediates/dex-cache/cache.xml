@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sony\Desktop\android_practice\TwitterSearches\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="151e944e11fad01335e19f791261d052f14ec1c6">
+        <dex dex="C:\Users\sony\Desktop\android_practice\TwitterSearches\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_23cf6fde51ca3c6dfb15a0b31cc721eebfc4b84d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sony\Desktop\android_practice\TwitterSearches\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\sony\Desktop\android_practice\TwitterSearches\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a417c9df4cfaa10a4bc670c4e8b4df3fad34395f\classes.dex" />
+    </item>
+
+</items>

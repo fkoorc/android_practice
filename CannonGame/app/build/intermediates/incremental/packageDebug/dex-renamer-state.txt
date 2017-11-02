@@ -1,0 +1,7 @@
+#Thu Nov 02 16:36:47 CST 2017
+base.0=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_681290e0e9949dbec554b10a6947eff7913f2451
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_394c733dc3a2c37172c364f81662739b9b17290b\\classes.dex
+base.1=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_394c733dc3a2c37172c364f81662739b9b17290b
+file.0=C\:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_681290e0e9949dbec554b10a6947eff7913f2451\\classes.dex

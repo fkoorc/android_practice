@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cannon_fire.wav",
+        "source": "C:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\src\\main\\res\\raw\\cannon_fire.wav"
+    },
+    {
+        "merged": "C:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blocker_hit.wav",
+        "source": "C:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\src\\main\\res\\raw\\blocker_hit.wav"
+    },
+    {
+        "merged": "C:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\target_hit.wav",
+        "source": "C:\\Users\\sony\\Desktop\\android_practice\\CannonGame\\app\\src\\main\\res\\raw\\target_hit.wav"
+    }
+]

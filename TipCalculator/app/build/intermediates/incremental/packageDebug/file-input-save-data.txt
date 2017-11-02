@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Nov 02 15:49:42 CST 2017
+2.base=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9ccd7b8ba2c86c718e774fbe7ed679892c0a95e
+count=6
+0.file=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+1.file=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_acefd5e3d4a925166da16ebb4a6b753cc709ade7\\classes.dex
+1.set=DEX
+2.file=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_acefd5e3d4a925166da16ebb4a6b753cc709ade7
+4.file=C\:\\Users\\sony\\Desktop\\android_practice\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9ccd7b8ba2c86c718e774fbe7ed679892c0a95e\\classes.dex
+0.set=ANDROID_RESOURCE
