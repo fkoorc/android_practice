@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:id="@+id/back"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/speaker"
+        android:layout_width="240dp"
+        android:layout_height="300dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/emptyback"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/speak_btn_state" />
+
+    <ImageButton
+        android:id="@+id/back_btn"
+        android:layout_width="240dp"
+        android:layout_height="300dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/emptyback"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/back_btn_state" />
+
+    <TextView
+        android:id="@+id/color_block"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="40dp"
+        android:text="              "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="130sp" />
+
+    <TextView
+        android:id="@+id/distence"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/back_btn"
+        android:layout_marginTop="85dp"
+        android:text="  "
+        android:textSize="100sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <TextView
+        android:id="@+id/distence2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/distence"
+        android:layout_alignBottom="@+id/distence"
+        android:layout_toRightOf="@+id/distence"
+        android:text="  "
+        android:textSize="40sp" />
+</RelativeLayout>

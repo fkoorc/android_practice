@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageButton
+        android:id="@+id/btn_set"
+        android:layout_width="300dp"
+        android:layout_height="420dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/l_set_button" />
+
+    <ImageButton
+        android:id="@+id/btn_search"
+        android:layout_width="300dp"
+        android:layout_height="420dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/l_shake_button" />
+
+    <ImageButton
+        android:id="@+id/btn_call"
+        android:layout_width="300dp"
+        android:layout_height="420dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/l_call_button" />
+
+    <ImageButton
+        android:id="@+id/btn_func"
+        android:layout_width="300dp"
+        android:layout_height="420dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/l_func_button" />
+
+</RelativeLayout>

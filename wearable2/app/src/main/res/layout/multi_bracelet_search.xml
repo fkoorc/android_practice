@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/brace1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="第一裝置" />
+
+    <Button
+        android:id="@+id/brace2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="第二裝置" />
+
+    <Button
+        android:id="@+id/brace3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="第三裝置" />
+
+    <Button
+        android:id="@+id/goback"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="回到設定" />
+</LinearLayout>

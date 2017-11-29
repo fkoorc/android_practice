@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageButton
+        android:id="@+id/btn_dis"
+        android:layout_width="400dp"
+        android:layout_height="620dp"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/distence_button" />
+
+    <ImageButton
+        android:id="@+id/btn_col"
+        android:layout_width="400dp"
+        android:layout_height="620dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/color_button" />
+
+    <ImageButton
+        android:id="@+id/btn_bat"
+        android:layout_width="400dp"
+        android:layout_height="620dp"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/battery_button" />
+
+    <ImageButton  
+        android:id="@+id/btn_func"
+        android:layout_width="400dp"
+        android:layout_height="620dp"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/func_button" />
+
+</RelativeLayout>
