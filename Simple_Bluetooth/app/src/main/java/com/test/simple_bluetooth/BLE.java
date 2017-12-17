@@ -204,10 +204,11 @@ public class BLE extends AppCompatActivity {
 
     private void bluetoothOn(View view){
         if (!mBTAdapter.isEnabled()) {//如果藍芽沒開啟
-            Intent enableBtIntent = new
-                    Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);//跳出視窗
+            Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);//跳出視窗
             startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
             //開啟設定藍芽畫面
+            //不做提示，強行打開
+            // mAdapter.enable();
             mBluetoothStatus.setText("Bluetooth enabled");
             Toast.makeText(getApplicationContext(),"Bluetooth turned on",Toast.LENGTH_SHORT).show();
         }

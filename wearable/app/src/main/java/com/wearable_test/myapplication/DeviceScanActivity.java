@@ -155,6 +155,7 @@ public class DeviceScanActivity extends Activity implements OnInitListener{
         		Log.w("mac",device.getAddress() );
         		outputWriter.close();
         	} catch (IOException e) {
+           	     
         		// TODO Auto-generated catch block
         		e.printStackTrace();
         	}
